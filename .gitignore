@@ -7,7 +7,6 @@ cache/
 combined/
 combine/
 compiled/
-dist/
 tmp/
 *.swp
 .gitignore

@@ -1,0 +1,11 @@
+{
+  "name": "jquery-mobile",
+  "version": "1.4.0-rc.1",
+  "main": [
+    "dist/jquery.mobile.css",
+    "dist/jquery.mobile.js"
+  ],
+  "dependencies": {
+    "jquery": "~1.9"
+  }
+}
